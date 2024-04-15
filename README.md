@@ -1,2 +1,2 @@
-# react-native-fullstack-app
+#friendRomourAppRN
 React Native Full Stack Project (React Native/ Node Express JS / Mongodb Database)
